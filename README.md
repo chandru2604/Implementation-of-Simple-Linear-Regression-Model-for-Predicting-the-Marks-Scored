@@ -19,8 +19,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: ARJUN M S
-RegisterNumber: 212222080007
+Developed by: CHANDRU S
+RegisterNumber: 212224230042
 */
 ```
 ```
